@@ -1,0 +1,162 @@
+[
+  {
+    "id": 23,
+    "seleccion": "Inglaterra",
+    "acronimo": "ING"
+  },
+  {
+    "id": 24,
+    "seleccion": "Argentina",
+    "acronimo": "ARG"
+  },
+  {
+    "id": 25,
+    "seleccion": "Estados Unidos",
+    "acronimo": "USA"
+  },
+  {
+    "id": 26,
+    "seleccion": "Irán",
+    "acronimo": "IRN"
+  },
+  {
+    "id": 27,
+    "seleccion": "Senegal",
+    "acronimo": "SEN"
+  },
+  {
+    "id": 28,
+    "seleccion": "Gales",
+    "acronimo": "GAL"
+  },
+  {
+    "id": 29,
+    "seleccion": "México",
+    "acronimo": "MEX"
+  },
+  {
+    "id": 30,
+    "seleccion": "Arabia Saudita",
+    "acronimo": "SAU"
+  },
+  {
+    "id": 31,
+    "seleccion": "Polonia",
+    "acronimo": "POL"
+  },
+  {
+    "id": 32,
+    "seleccion": "Catar",
+    "acronimo": "QAT"
+  },
+  {
+    "id": 33,
+    "seleccion": "Ecuador",
+    "acronimo": "ECU"
+  },
+  {
+    "id": 34,
+    "seleccion": "Países Bajos",
+    "acronimo": "NLD"
+  },
+  {
+    "id": 35,
+    "seleccion": "Alemania",
+    "acronimo": "DEU"
+  },
+  {
+    "id": 36,
+    "seleccion": "Canadá",
+    "acronimo": "CAN"
+  },
+  {
+    "id": 37,
+    "seleccion": "Marruecos",
+    "acronimo": "MAR"
+  },
+  {
+    "id": 38,
+    "seleccion": "Brasil",
+    "acronimo": "BRA"
+  },
+  {
+    "id": 39,
+    "seleccion": "Bélgica",
+    "acronimo": "BEL"
+  },
+  {
+    "id": 40,
+    "seleccion": "Suiza",
+    "acronimo": "CHE"
+  },
+  {
+    "id": 41,
+    "seleccion": "Croacia",
+    "acronimo": "HRV"
+  },
+  {
+    "id": 42,
+    "seleccion": "Camerún",
+    "acronimo": "CMR"
+  },
+  {
+    "id": 43,
+    "seleccion": "Serbia",
+    "acronimo": "SER"
+  },
+  {
+    "id": 44,
+    "seleccion": "España",
+    "acronimo": "ESP"
+  },
+  {
+    "id": 45,
+    "seleccion": "Costa Rica",
+    "acronimo": "CRI"
+  },
+  {
+    "id": 46,
+    "seleccion": "Japón",
+    "acronimo": "JPN"
+  },
+  {
+    "id": 47,
+    "seleccion": "Dinamarca",
+    "acronimo": "DNK"
+  },
+  {
+    "id": 48,
+    "seleccion": "Francia",
+    "acronimo": "FRA"
+  },
+  {
+    "id": 49,
+    "seleccion": "Uruguay",
+    "acronimo": "URY"
+  },
+  {
+    "id": 50,
+    "seleccion": "Túnez",
+    "acronimo": "TUN"
+  },
+  {
+    "id": 51,
+    "seleccion": "Ghana",
+    "acronimo": "GHA"
+  },
+  {
+    "id": 52,
+    "seleccion": "Australia",
+    "acronimo": "AUS"
+  },
+  {
+    "id": 53,
+    "seleccion": "Portugal",
+    "acronimo": "PRT"
+  },
+  {
+    "id": 54,
+    "seleccion": "Corea del Sur",
+    "acronimo": "KOR"
+  }
+]
