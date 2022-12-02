@@ -12,8 +12,8 @@
 </script>
 
 <div class="overflow-x-auto relative shadow-md sm:rounded-lg">
-	<table class="w-full text-sm text-left text-gray-500 dark:text-gray-400">
-		<thead class="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400">
+	<table class="w-full text-sm text-left text-gray-500 ">
+		<thead class="text-xs text-gray-700 uppercase bg-gray-50  ">
 			<tr>
 				<th scope="col" class="py-3 px-6 text-center"> <p>Posicion</p> </th>
 				<th scope="col" class="py-3 px-6 text-center"> <p>Usuario</p> </th>
@@ -25,11 +25,7 @@
 		</thead>
 		<tbody>
 			{#each posiciones as posicion, i}
-				<tr
-					class={`${
-						posicion.usuario.id == user.id ? 'bg-green-100' : 'bg-white'
-					} border-b dark:bg-gray-800 dark:border-gray-700`}
-				>
+				<tr class={`${posicion.usuario.id == user.id ? 'bg-green-100' : 'bg-white'} border-b`}>
 					{#if i == 0}
 						<td class="py-4 px-6 text-center text-gray-800 flex justify-center">
 							<div class="flex items-center justify-center bg-yellow-500 rounded-full w-10 h-10 ">
