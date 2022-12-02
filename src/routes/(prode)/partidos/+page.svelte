@@ -129,7 +129,7 @@
 								class="bg-sky-400 hover:bg-sky-500 p-2 rounded-lg text-gray-700"
 								on:click={(e) => {
 									(prediccionForm = true), (partidoForm = partido);
-								}}>Hacer predicicon!</button
+								}}>Hacer prediccion!</button
 							>
 						</td>
 					{:else}
@@ -141,5 +141,11 @@
 	</table>
 </div>
 {#if prediccionForm}
-	<PrediccionForm partido={partidoForm} usuario={JSON.parse(data.user)[0]} />
+	<PrediccionForm
+		partido={partidoForm}
+		usuario={JSON.parse(data.user)[0]}
+		on:click={() => {
+			prediccionForm = false;
+		}}
+	/>
 {/if}
