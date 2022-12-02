@@ -54,8 +54,8 @@
 </script>
 
 <div class="overflow-x-auto relative shadow-md sm:rounded-lg">
-	<table class="w-full text-sm text-left text-gray-500 dark:text-gray-400">
-		<thead class="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400">
+	<table class="w-full text-sm text-left text-gray-500 ">
+		<thead class="text-xs text-gray-700 uppercase bg-gray-50  ">
 			<tr>
 				<th scope="col" class="py-3 px-6 text-center"> <p>Partido</p> </th>
 				<th scope="col" class="py-3 px-6 text-center"> <p>Grupo</p> </th>
@@ -71,9 +71,9 @@
 				if (partido1.grupo < partido2.grupo) return -1;
 				return 0;
 			}) as partido}
-				<tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
+				<tr class="bg-white border-b ">
 					<td
-						class="py-4 px-6 text-center font-medium text-gray-900 whitespace-nowrap dark:text-white flex gap-3 justify-center"
+						class="py-4 px-6 text-center font-medium text-gray-900 whitespace-nowrap flex gap-3 justify-center"
 					>
 						<img src={flag(partido.local.nombre, 28, 21)} alt="bandera local" />
 						<p>
@@ -84,9 +84,7 @@
 					<td class="py-4 px-6 text-center"> {partido.grupo} </td>
 					<td class="py-4 px-6 text-center"> {partido.ronda} </td>
 					{#if partido.resultado}
-						<td
-							class="py-4 px-6 text-center font-medium text-gray-900 whitespace-nowrap dark:text-white "
-						>
+						<td class="py-4 px-6 text-center font-medium text-gray-900 whitespace-nowrap ">
 							<div class="flex gap-3 justify-center">
 								<img src={flag(partido.local.nombre, 28, 21)} alt="bandera local" />
 								<p>
@@ -101,7 +99,7 @@
 					{/if}
 					{#if partido.resultado && partido.resultado.ganador_penales}
 						<td
-							class="py-4 px-6 text-center font-medium text-gray-900 whitespace-nowrap dark:text-white flex justify-center"
+							class="py-4 px-6 text-center font-medium text-gray-900 whitespace-nowrap flex justify-center"
 						>
 							<img src={flag(getGanadorPenales(partido), 28, 21)} alt="bandera local" />
 						</td>
@@ -109,7 +107,7 @@
 						<td class="py-4 px-6 text-center"> Sin penales </td>
 					{/if}
 					{#if partido.prediccion}
-						<td class="py-4 px-6 text-center font-medium text-gray-900  dark:text-white ">
+						<td class="py-4 px-6 text-center font-medium text-gray-900  ">
 							<div class="flex gap-3 justify-center">
 								<img src={flag(partido.local.nombre, 28, 21)} alt="bandera local" />
 								<p>

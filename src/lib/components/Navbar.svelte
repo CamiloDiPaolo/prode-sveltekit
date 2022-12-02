@@ -28,19 +28,16 @@
 	title="tabla de posiciones"
 	class="p-5 bg-sky-400 fixed bottom-5 left-5 flex justify-center items-center rounded-full z-20 hover:bg-sky-500"
 >
-	<Icon
-		src={Table}
-		class="w-8 h-8 text-gray-600 transition duration-75 dark:text-gray-400 group-hover:text-gray-900 dark:group-hover:text-white"
-	/>
+	<Icon src={Table} class="w-8 h-8 text-gray-600 transition duration-75 group-hover:text-gray-90" />
 </a>
 <a
 	href="/partidos"
-	title="partidos, resultados y posiciones"
+	title="partidos, resultados y predicciones"
 	class="p-5 bg-sky-400 fixed bottom-28 left-5 flex justify-center items-center rounded-full z-20 hover:bg-sky-500"
 >
 	<Icon
 		src={DocumentReport}
-		class="w-8 h-8 text-gray-600 transition duration-75 dark:text-gray-400 group-hover:text-gray-900 dark:group-hover:text-white"
+		class="w-8 h-8 text-gray-600 transition duration-75 group-hover:text-gray-90"
 	/>
 </a>
 
@@ -55,7 +52,7 @@
 		{:else}
 			<Icon
 				src={Upload}
-				class="w-8 h-8 text-gray-600 transition duration-75 dark:text-gray-400 group-hover:text-gray-900 dark:group-hover:text-white"
+				class="w-8 h-8 text-gray-600 transition duration-75 group-hover:text-gray-90"
 			/>
 		{/if}
 	</button>
