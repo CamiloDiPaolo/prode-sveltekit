@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "nombre": "Operacion IT",
+    "acronimo": "OIT"
+  },
+  {
+    "id": 3,
+    "nombre": "Análisis Administrativo y Mejora Continua",
+    "acronimo": "AAMC"
+  },
+  {
+    "id": 4,
+    "nombre": "Interoperabilidad",
+    "acronimo": "IOP"
+  },
+  {
+    "id": 5,
+    "nombre": "Capacitación y Contenidos",
+    "acronimo": "C&C"
+  },
+  {
+    "id": 6,
+    "nombre": "Mesa de Ayuda",
+    "acronimo": "MDA"
+  },
+  {
+    "id": 7,
+    "nombre": "PMO",
+    "acronimo": "PMO"
+  },
+  {
+    "id": 8,
+    "nombre": "Análisis y Desarrollo de Sistemas",
+    "acronimo": "ADS"
+  },
+  {
+    "id": 9,
+    "nombre": "Asesor Técnico Legal",
+    "acronimo": "AL"
+  },
+  {
+    "id": 10,
+    "nombre": "Recursos Humanos y Administración",
+    "acronimo": "RH&A"
+  }
+]

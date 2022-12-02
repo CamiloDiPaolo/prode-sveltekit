@@ -1,0 +1,1064 @@
+[
+	{
+		"id": 1,
+		"nombre": "admin",
+		"nombreUsuario": "admin",
+		"email": "admin@admin",
+		"password": "$2a$10$EZs4rZt5kaxVXYwLsssKaeF2HGBMuaA.zHy15u08hQ/0nkpHgFb9.",
+		"roles": [
+			{
+				"id": 1,
+				"rolNombre": "ROLE_ADMIN"
+			}
+		],
+		"equipoDpma": {
+			"id": 8,
+			"nombre": "Análisis y Desarrollo de Sistemas",
+			"acronimo": "ADS"
+		}
+	},
+	{
+		"id": 30,
+		"nombre": "Joaquin Fontana",
+		"nombreUsuario": "JFONTI",
+		"email": "jfonti@barber.pro",
+		"password": "$2a$10$ch0XtGM6xUxM0G/78.KscuV4U7ao2cppYMdzcEaJAV659c8dQZ9ia",
+		"roles": [
+			{
+				"id": 2,
+				"rolNombre": "ROLE_USER"
+			}
+		],
+		"equipoDpma": {
+			"id": 8,
+			"nombre": "Análisis y Desarrollo de Sistemas",
+			"acronimo": "ADS"
+		}
+	},
+	{
+		"id": 31,
+		"nombre": "Facundo Nahuel Odone",
+		"nombreUsuario": "BIZCOCHITO",
+		"email": "bizcochito@barber.pro",
+		"password": "$2a$10$KCRh9hO.ZSe0gFEuiK9BMe1.JxUxolDuJLiBNE6XRcTL08ZeSg5PC",
+		"roles": [
+			{
+				"id": 2,
+				"rolNombre": "ROLE_USER"
+			}
+		],
+		"equipoDpma": {
+			"id": 8,
+			"nombre": "Análisis y Desarrollo de Sistemas",
+			"acronimo": "ADS"
+		}
+	},
+	{
+		"id": 32,
+		"nombre": "Camilo Di Paolo",
+		"nombreUsuario": "PRODEMASTER",
+		"email": "admin@prode.com",
+		"password": "$2a$10$SRTX/oL67v26DVJE0BSTD.1x2lpIcKdTVJm2E9Z5gWKrd4pHz8z16",
+		"roles": [
+			{
+				"id": 2,
+				"rolNombre": "ROLE_USER"
+			}
+		],
+		"equipoDpma": {
+			"id": 8,
+			"nombre": "Análisis y Desarrollo de Sistemas",
+			"acronimo": "ADS"
+		}
+	},
+	{
+		"id": 33,
+		"nombre": "Leandro Muriel",
+		"nombreUsuario": "LMURIEL",
+		"email": "leandro.muriel@gba.gob.ar",
+		"password": "$2a$10$4sD8a1uD4T4Xytup9REg1edOcCpVU9cHm26J/ny0.DOiRYRB1zPyC",
+		"roles": [
+			{
+				"id": 2,
+				"rolNombre": "ROLE_USER"
+			}
+		],
+		"equipoDpma": {
+			"id": 10,
+			"nombre": "Recursos Humanos y Administración",
+			"acronimo": "RH&A"
+		}
+	},
+	{
+		"id": 34,
+		"nombre": "Ana Laura Bossa",
+		"nombreUsuario": "ABOSSA",
+		"email": "ana.bossa@gba.gob.ar",
+		"password": "$2a$10$bXIUXrDye5YeV1wOYd13t.66/RXpipIPB9byKHMqq5uLTZHGcPk1u",
+		"roles": [
+			{
+				"id": 2,
+				"rolNombre": "ROLE_USER"
+			}
+		],
+		"equipoDpma": {
+			"id": 3,
+			"nombre": "Análisis Administrativo y Mejora Continua",
+			"acronimo": "AAMC"
+		}
+	},
+	{
+		"id": 35,
+		"nombre": "Iride Fernandez Añó",
+		"nombreUsuario": "IRIFERNANDEZ",
+		"email": "iride.fernandez@gba.gob.ar",
+		"password": "$2a$10$me5X87g4TDiIF1Rg05GAU.DqsibOt8vohwzdTAfWH1w4wQErLCuBe",
+		"roles": [
+			{
+				"id": 2,
+				"rolNombre": "ROLE_USER"
+			}
+		],
+		"equipoDpma": {
+			"id": 3,
+			"nombre": "Análisis Administrativo y Mejora Continua",
+			"acronimo": "AAMC"
+		}
+	},
+	{
+		"id": 36,
+		"nombre": "Magali Sanelli",
+		"nombreUsuario": "MSANELLI",
+		"email": "magali.sanelli@gba.gob.ar",
+		"password": "$2a$10$hUNRgG.mUCBwjQ/u4E9TfOndTaKmVN1RFEJLVHmyE/5f4H3uObFTS",
+		"roles": [
+			{
+				"id": 2,
+				"rolNombre": "ROLE_USER"
+			}
+		],
+		"equipoDpma": {
+			"id": 3,
+			"nombre": "Análisis Administrativo y Mejora Continua",
+			"acronimo": "AAMC"
+		}
+	},
+	{
+		"id": 37,
+		"nombre": "Paloma Rodriguez Arruabarrena",
+		"nombreUsuario": "PRODRIGUEZA",
+		"email": "paloma.rodriguez@gba.gob.ar",
+		"password": "$2a$10$6Casa5ds8pHd5bYZT5K6iu9c8xU9KPmefSjToKJK81MTjFdeTGWrq",
+		"roles": [
+			{
+				"id": 2,
+				"rolNombre": "ROLE_USER"
+			}
+		],
+		"equipoDpma": {
+			"id": 3,
+			"nombre": "Análisis Administrativo y Mejora Continua",
+			"acronimo": "AAMC"
+		}
+	},
+	{
+		"id": 38,
+		"nombre": "Gastón Figueras",
+		"nombreUsuario": "FIGUERASG",
+		"email": "gaston.figueras@gba.gob.ar",
+		"password": "$2a$10$p3t5G4QTMajkY3qTknX7f.h4cLUKxdcK3UvGz4GtIV/LQOFOkGsMu",
+		"roles": [
+			{
+				"id": 2,
+				"rolNombre": "ROLE_USER"
+			}
+		],
+		"equipoDpma": {
+			"id": 3,
+			"nombre": "Análisis Administrativo y Mejora Continua",
+			"acronimo": "AAMC"
+		}
+	},
+	{
+		"id": 39,
+		"nombre": "Natalia Pedernera",
+		"nombreUsuario": "NAPEDERNERA",
+		"email": "natalia.pedernera@gba.gob.ar",
+		"password": "$2a$10$BA1k9MYC2IYM2idlwZfaxuKNE8cEyGBWjgz/QZROahj4RDuSzFzT2",
+		"roles": [
+			{
+				"id": 2,
+				"rolNombre": "ROLE_USER"
+			}
+		],
+		"equipoDpma": {
+			"id": 3,
+			"nombre": "Análisis Administrativo y Mejora Continua",
+			"acronimo": "AAMC"
+		}
+	},
+	{
+		"id": 40,
+		"nombre": "Juliana Riesco",
+		"nombreUsuario": "JRIESCO",
+		"email": "juliana.riesco@gba.gob.ar",
+		"password": "$2a$10$Xcx5v0PvG0SDWRGNcmBUA.RgUBA7fukc8io88/AvFztDIuYTIC7Yq",
+		"roles": [
+			{
+				"id": 2,
+				"rolNombre": "ROLE_USER"
+			}
+		],
+		"equipoDpma": {
+			"id": 3,
+			"nombre": "Análisis Administrativo y Mejora Continua",
+			"acronimo": "AAMC"
+		}
+	},
+	{
+		"id": 41,
+		"nombre": "Francisco Ibañez",
+		"nombreUsuario": "FRIBANEZ",
+		"email": "francisco.ibanez@gba.gob.ar",
+		"password": "$2a$10$xn6Qcj4i8TJtttlxfrM6E./ojR8ijiTDYgmoVIG8T8WmLossT0pCi",
+		"roles": [
+			{
+				"id": 2,
+				"rolNombre": "ROLE_USER"
+			}
+		],
+		"equipoDpma": {
+			"id": 3,
+			"nombre": "Análisis Administrativo y Mejora Continua",
+			"acronimo": "AAMC"
+		}
+	},
+	{
+		"id": 42,
+		"nombre": "Victoria Blasco",
+		"nombreUsuario": "VBLASCO",
+		"email": "victoria.blasco@gba.gob.ar",
+		"password": "$2a$10$saW.nQT1UnGAkIC7mJ5Rg.ldCvMfUMCxCW4I42v9aZw4xuIYCV7wq",
+		"roles": [
+			{
+				"id": 2,
+				"rolNombre": "ROLE_USER"
+			}
+		],
+		"equipoDpma": {
+			"id": 3,
+			"nombre": "Análisis Administrativo y Mejora Continua",
+			"acronimo": "AAMC"
+		}
+	},
+	{
+		"id": 43,
+		"nombre": "Nicolás Sparvieri",
+		"nombreUsuario": "NSPARVIERI",
+		"email": "nicolas.sparvieri@gba.gob.ar",
+		"password": "$2a$10$jZ00a.4zbPxItt0u6U3.lOkCfQs4nPr8VCaB7mSWobE6fSspI6uwW",
+		"roles": [
+			{
+				"id": 2,
+				"rolNombre": "ROLE_USER"
+			}
+		],
+		"equipoDpma": {
+			"id": 3,
+			"nombre": "Análisis Administrativo y Mejora Continua",
+			"acronimo": "AAMC"
+		}
+	},
+	{
+		"id": 44,
+		"nombre": "Jésica Díaz",
+		"nombreUsuario": "JDIAZ",
+		"email": "jesica.diaz@gba.gob.ar",
+		"password": "$2a$10$FCpmikRMl9qn35E5LdzZPOuCLjkexdQzvpiNWo2otjmth52QA7Ony",
+		"roles": [
+			{
+				"id": 2,
+				"rolNombre": "ROLE_USER"
+			}
+		],
+		"equipoDpma": {
+			"id": 4,
+			"nombre": "Interoperabilidad",
+			"acronimo": "IOP"
+		}
+	},
+	{
+		"id": 45,
+		"nombre": "Julián Alberto Sanz",
+		"nombreUsuario": "JSANZ",
+		"email": "julian.sanz@gba.gob.ar",
+		"password": "$2a$10$XbRHQFN8YX5EAsOiic9ptO85ToNAr6vbAUSxe83YnYMOLKWP2LT/G",
+		"roles": [
+			{
+				"id": 2,
+				"rolNombre": "ROLE_USER"
+			}
+		],
+		"equipoDpma": {
+			"id": 4,
+			"nombre": "Interoperabilidad",
+			"acronimo": "IOP"
+		}
+	},
+	{
+		"id": 46,
+		"nombre": "Juan María Pordomingo",
+		"nombreUsuario": "JPORDOMINGO",
+		"email": "juan.pordomingo@gba.gob.ar",
+		"password": "$2a$10$OkTr10XLzRrL9MxNgNijRuZkK3ilO7kPJ0wi3OTDuZP.XX93/dZYy",
+		"roles": [
+			{
+				"id": 2,
+				"rolNombre": "ROLE_USER"
+			}
+		],
+		"equipoDpma": {
+			"id": 4,
+			"nombre": "Interoperabilidad",
+			"acronimo": "IOP"
+		}
+	},
+	{
+		"id": 47,
+		"nombre": "Candela Castro García",
+		"nombreUsuario": "CCASTROGARCIA",
+		"email": "candela.castro@gba.gob.ar",
+		"password": "$2a$10$YlNaCMBiFptHgTnyLBZ1deX.muiQJ4J9wyNURXWdhKQD0kgHLFVzK",
+		"roles": [
+			{
+				"id": 2,
+				"rolNombre": "ROLE_USER"
+			}
+		],
+		"equipoDpma": {
+			"id": 4,
+			"nombre": "Interoperabilidad",
+			"acronimo": "IOP"
+		}
+	},
+	{
+		"id": 48,
+		"nombre": "Augusto Vega",
+		"nombreUsuario": "OCVEGA",
+		"email": "octavio.vega@gba.gob.ar",
+		"password": "$2a$10$XsBk7kJ6Jh0xX70GdFJdGOtaGs4FFicuCf6aML7AiUlSOjLkIWnfy",
+		"roles": [
+			{
+				"id": 2,
+				"rolNombre": "ROLE_USER"
+			}
+		],
+		"equipoDpma": {
+			"id": 4,
+			"nombre": "Interoperabilidad",
+			"acronimo": "IOP"
+		}
+	},
+	{
+		"id": 49,
+		"nombre": "Letizia Paola Ballestero",
+		"nombreUsuario": "LPBALLESTERO",
+		"email": "ballesteroletizia@gmail.com",
+		"password": "$2a$10$mEICCP1111TZgw8OGusJ1OOT8x5Iz5mIyHEtZm3gyLzxYR0gZ9XSC",
+		"roles": [
+			{
+				"id": 2,
+				"rolNombre": "ROLE_USER"
+			}
+		],
+		"equipoDpma": {
+			"id": 4,
+			"nombre": "Interoperabilidad",
+			"acronimo": "IOP"
+		}
+	},
+	{
+		"id": 50,
+		"nombre": "Nicolás Esteban Ferré",
+		"nombreUsuario": "NFERRE",
+		"email": "nicolas.ferre@gba.gob.ar",
+		"password": "$2a$10$5HQ4Ep4YtIFfHTTxYF17megf81hFvxBuBo4WPUe4LjLIQxQXc5KrW",
+		"roles": [
+			{
+				"id": 2,
+				"rolNombre": "ROLE_USER"
+			}
+		],
+		"equipoDpma": {
+			"id": 5,
+			"nombre": "Capacitación y Contenidos",
+			"acronimo": "C&C"
+		}
+	},
+	{
+		"id": 51,
+		"nombre": "Ana Paula Garaventa",
+		"nombreUsuario": "APGARAVENTA",
+		"email": "anapaula.garaventa@gba.gob.ar",
+		"password": "$2a$10$DT4kzjhlUlWejfNbYpdiUucMaNEhvBEZHTad7yunoCUvm5uIeMfZS",
+		"roles": [
+			{
+				"id": 2,
+				"rolNombre": "ROLE_USER"
+			}
+		],
+		"equipoDpma": {
+			"id": 5,
+			"nombre": "Capacitación y Contenidos",
+			"acronimo": "C&C"
+		}
+	},
+	{
+		"id": 52,
+		"nombre": "Gisela Morales ",
+		"nombreUsuario": "GISMORALES",
+		"email": "gisela.morales@gba.gob.ar",
+		"password": "$2a$10$hVCGEMPZrcHtC6GRVppwTO2uXHPj6zId3waTFuxkersv2nflOt2he",
+		"roles": [
+			{
+				"id": 2,
+				"rolNombre": "ROLE_USER"
+			}
+		],
+		"equipoDpma": {
+			"id": 5,
+			"nombre": "Capacitación y Contenidos",
+			"acronimo": "C&C"
+		}
+	},
+	{
+		"id": 53,
+		"nombre": "Ana Paula Riffel Block",
+		"nombreUsuario": "APRIFFEL",
+		"email": "ana.riffel@gba.gob.ar",
+		"password": "$2a$10$lGZmSUbJhf2TcFmkZLcG6evbpNARWm6B1.Ou5MaqOywESYtL4Sl1i",
+		"roles": [
+			{
+				"id": 2,
+				"rolNombre": "ROLE_USER"
+			}
+		],
+		"equipoDpma": {
+			"id": 5,
+			"nombre": "Capacitación y Contenidos",
+			"acronimo": "C&C"
+		}
+	},
+	{
+		"id": 54,
+		"nombre": "Maria Julia Rojas Chediac",
+		"nombreUsuario": "MJROJAS",
+		"email": "mariajulia.rojas@gba.gob.ar",
+		"password": "$2a$10$8NO3I7E9GfaPDrMUC7tw1.cbZCoshQ2iaVzASvP9sunM45pXPlze2",
+		"roles": [
+			{
+				"id": 2,
+				"rolNombre": "ROLE_USER"
+			}
+		],
+		"equipoDpma": {
+			"id": 5,
+			"nombre": "Capacitación y Contenidos",
+			"acronimo": "C&C"
+		}
+	},
+	{
+		"id": 55,
+		"nombre": "Abril Rumi Macchi Zubiaurre",
+		"nombreUsuario": "AZUBIAURRE",
+		"email": "abril.rumi@gba.gob.ar",
+		"password": "$2a$10$E.wgSzO5VypFY4an8JsegO2gAf55CuQVAGDsSsmStKVFfjqtmtemm",
+		"roles": [
+			{
+				"id": 2,
+				"rolNombre": "ROLE_USER"
+			}
+		],
+		"equipoDpma": {
+			"id": 5,
+			"nombre": "Capacitación y Contenidos",
+			"acronimo": "C&C"
+		}
+	},
+	{
+		"id": 56,
+		"nombre": "María Elaia Buonsanti",
+		"nombreUsuario": "MEBUONSANTI",
+		"email": "maria.buonsanti@gba.gob.ar",
+		"password": "$2a$10$QHEHnIzAbWODcK4yFtDwvOsYAlLBaObtqm3x91k3V1akczoY2jSPS",
+		"roles": [
+			{
+				"id": 2,
+				"rolNombre": "ROLE_USER"
+			}
+		],
+		"equipoDpma": {
+			"id": 5,
+			"nombre": "Capacitación y Contenidos",
+			"acronimo": "C&C"
+		}
+	},
+	{
+		"id": 57,
+		"nombre": "Mariana Andrea Travella ",
+		"nombreUsuario": "MTRAVELLA",
+		"email": "mariana.travella@gba.gob.ar",
+		"password": "$2a$10$P8umS94AgbtbYLvSNr5tVO1dKhMvyyW4v9KXqXL19U62GVuwnOFjO",
+		"roles": [
+			{
+				"id": 2,
+				"rolNombre": "ROLE_USER"
+			}
+		],
+		"equipoDpma": {
+			"id": 5,
+			"nombre": "Capacitación y Contenidos",
+			"acronimo": "C&C"
+		}
+	},
+	{
+		"id": 58,
+		"nombre": "Guadalupe Campigli",
+		"nombreUsuario": "GCAMPIGLI",
+		"email": "guadalupe.campigli@gba.gob.ar",
+		"password": "$2a$10$BNrgGMISjeVOQZt/0G4ZuuMSP/cL5QUc1gCkuYCyP.E2Pb1CbivY6",
+		"roles": [
+			{
+				"id": 2,
+				"rolNombre": "ROLE_USER"
+			}
+		],
+		"equipoDpma": {
+			"id": 6,
+			"nombre": "Mesa de Ayuda",
+			"acronimo": "MDA"
+		}
+	},
+	{
+		"id": 59,
+		"nombre": "Santiago Florentin",
+		"nombreUsuario": "SFLORENTIN",
+		"email": "santiago.florentin@gba.gob.ar",
+		"password": "$2a$10$dB7AhokR73gXWmfFjEq1qOv8mymevHzsI1CmePKKfUNu23pcKT7lm",
+		"roles": [
+			{
+				"id": 2,
+				"rolNombre": "ROLE_USER"
+			}
+		],
+		"equipoDpma": {
+			"id": 6,
+			"nombre": "Mesa de Ayuda",
+			"acronimo": "MDA"
+		}
+	},
+	{
+		"id": 60,
+		"nombre": "Juan Pablo Gerez",
+		"nombreUsuario": "JPGEREZ",
+		"email": "juan.gerez@gba.gob.ar",
+		"password": "$2a$10$NdQNQrGDFkYUfqp7r6yEd.J3UJc3UGtRIjjkZV2osQgWRtRq6l1Eu",
+		"roles": [
+			{
+				"id": 2,
+				"rolNombre": "ROLE_USER"
+			}
+		],
+		"equipoDpma": {
+			"id": 6,
+			"nombre": "Mesa de Ayuda",
+			"acronimo": "MDA"
+		}
+	},
+	{
+		"id": 61,
+		"nombre": "Fabricio Mazzei",
+		"nombreUsuario": "FMAZZEI",
+		"email": "fabricio.mazzei@gba.gob.ar",
+		"password": "$2a$10$5FnxNNS2fb9d2fcSRgdJbeu5tVI/0b6vuXFCTualntStwAuH.o.Xi",
+		"roles": [
+			{
+				"id": 2,
+				"rolNombre": "ROLE_USER"
+			}
+		],
+		"equipoDpma": {
+			"id": 6,
+			"nombre": "Mesa de Ayuda",
+			"acronimo": "MDA"
+		}
+	},
+	{
+		"id": 62,
+		"nombre": "Leonardo Italo Monterubbianesi",
+		"nombreUsuario": "LEOMONTE",
+		"email": "leonardo.monterrubbianesi@gba.gob.ar",
+		"password": "$2a$10$VIJnN83HoBo0wemE6B7xRuI0b1e8gVxrWVD5j0HXa6CWF3bNTsf1u",
+		"roles": [
+			{
+				"id": 2,
+				"rolNombre": "ROLE_USER"
+			}
+		],
+		"equipoDpma": {
+			"id": 6,
+			"nombre": "Mesa de Ayuda",
+			"acronimo": "MDA"
+		}
+	},
+	{
+		"id": 63,
+		"nombre": "Martín Botana",
+		"nombreUsuario": "MBOTANA",
+		"email": "martin.botana@gba.gob.ar",
+		"password": "$2a$10$Yb2ogj4o1zT0DSGEI3ZyJOJjpcS6DNBDj7V0L8eBkeFFJGheXmvfG",
+		"roles": [
+			{
+				"id": 2,
+				"rolNombre": "ROLE_USER"
+			}
+		],
+		"equipoDpma": {
+			"id": 6,
+			"nombre": "Mesa de Ayuda",
+			"acronimo": "MDA"
+		}
+	},
+	{
+		"id": 64,
+		"nombre": "Candela Orsi ",
+		"nombreUsuario": "CAORSI",
+		"email": "candela.orsi@gba.gob.ar",
+		"password": "$2a$10$xfymWEtRDr8cPboU2wEHi.kuJcOJY7zsRdRCQU4l5XV9DnuDJFd6y",
+		"roles": [
+			{
+				"id": 2,
+				"rolNombre": "ROLE_USER"
+			}
+		],
+		"equipoDpma": {
+			"id": 6,
+			"nombre": "Mesa de Ayuda",
+			"acronimo": "MDA"
+		}
+	},
+	{
+		"id": 65,
+		"nombre": "Maria Celeste Ranze",
+		"nombreUsuario": "MCRANZE",
+		"email": "maria.ranze@gba.gob.ar",
+		"password": "$2a$10$6N5EtR41bqUZqDG5/XBmBu5c8A.THwwVCx9Zp/f/SDTmJLo4rNP1a",
+		"roles": [
+			{
+				"id": 2,
+				"rolNombre": "ROLE_USER"
+			}
+		],
+		"equipoDpma": {
+			"id": 6,
+			"nombre": "Mesa de Ayuda",
+			"acronimo": "MDA"
+		}
+	},
+	{
+		"id": 66,
+		"nombre": "Matias Fernando Agmi ",
+		"nombreUsuario": "MAGMI",
+		"email": "matias.agmi@gba.gob.ar",
+		"password": "$2a$10$eVaqfVvcgdDD32qcxtr5yeo1FnEq4.hftMwXxm8OOiKSuHzWAeiKK",
+		"roles": [
+			{
+				"id": 2,
+				"rolNombre": "ROLE_USER"
+			}
+		],
+		"equipoDpma": {
+			"id": 7,
+			"nombre": "PMO",
+			"acronimo": "PMO"
+		}
+	},
+	{
+		"id": 67,
+		"nombre": "Mercedes Crego",
+		"nombreUsuario": "MECREGO",
+		"email": "mercedes.crego@gba.gob.ar",
+		"password": "$2a$10$UBJFloddna5KwG9ArYh4R.2AfBFUzK02awtBeaC3vRsAWBKeYPgEG",
+		"roles": [
+			{
+				"id": 2,
+				"rolNombre": "ROLE_USER"
+			}
+		],
+		"equipoDpma": {
+			"id": 7,
+			"nombre": "PMO",
+			"acronimo": "PMO"
+		}
+	},
+	{
+		"id": 68,
+		"nombre": "Bárbara Di Renzo",
+		"nombreUsuario": "BDIRENZO",
+		"email": "barbara.direnzo@gba.gob.ar",
+		"password": "$2a$10$sAZmIyiUJUdwDx4/1Vhkb.0YquXMwK7R2.u8Ey0HijdBokE/cgxsK",
+		"roles": [
+			{
+				"id": 2,
+				"rolNombre": "ROLE_USER"
+			}
+		],
+		"equipoDpma": {
+			"id": 1,
+			"nombre": "Operacion IT",
+			"acronimo": "OIT"
+		}
+	},
+	{
+		"id": 69,
+		"nombre": "María Laura González Andres",
+		"nombreUsuario": "GONZALEZML",
+		"email": "marialaura.gonzalez@gba.gob.ar",
+		"password": "$2a$10$PqAeNvYA9rW1B7rz35FiPOvZNybF5.PMF0CvepoTG7rPFqguhj97O",
+		"roles": [
+			{
+				"id": 2,
+				"rolNombre": "ROLE_USER"
+			}
+		],
+		"equipoDpma": {
+			"id": 1,
+			"nombre": "Operacion IT",
+			"acronimo": "OIT"
+		}
+	},
+	{
+		"id": 70,
+		"nombre": "Santiago Ernesto Villalón ",
+		"nombreUsuario": "SVILLALON",
+		"email": "santiago.villalon@gba.gob.ar",
+		"password": "$2a$10$wy3ZdBqHQ6wGuf7/JeZfOOHr9yevYrgtUJ4z24VE4JBHmPhekYmLa",
+		"roles": [
+			{
+				"id": 2,
+				"rolNombre": "ROLE_USER"
+			}
+		],
+		"equipoDpma": {
+			"id": 1,
+			"nombre": "Operacion IT",
+			"acronimo": "OIT"
+		}
+	},
+	{
+		"id": 71,
+		"nombre": "Santiago Lucia Privitera",
+		"nombreUsuario": "SPRIVITERA",
+		"email": "santiago.privitera@gba.gob.ar",
+		"password": "$2a$10$e47hflQ4m9cIylE1qWS3v.vxK2QWe6cLBDEJxOj2CkLyrccT/LKRm",
+		"roles": [
+			{
+				"id": 2,
+				"rolNombre": "ROLE_USER"
+			}
+		],
+		"equipoDpma": {
+			"id": 1,
+			"nombre": "Operacion IT",
+			"acronimo": "OIT"
+		}
+	},
+	{
+		"id": 72,
+		"nombre": "Mainque Otero",
+		"nombreUsuario": "MOTERO",
+		"email": "mainque.otero@gba.gob.ar",
+		"password": "$2a$10$ori2eOI2rlTESI63j/gwmubpM9IkPeJK4uzV2btlSHUL03HDZ21eO",
+		"roles": [
+			{
+				"id": 2,
+				"rolNombre": "ROLE_USER"
+			}
+		],
+		"equipoDpma": {
+			"id": 1,
+			"nombre": "Operacion IT",
+			"acronimo": "OIT"
+		}
+	},
+	{
+		"id": 73,
+		"nombre": "Nahuel Piccinini",
+		"nombreUsuario": "NPICCININI",
+		"email": "nahuel.piccinini@gba.gob.ar",
+		"password": "$2a$10$Z./GMRTWDZPT..Z8KcMgYuOKwinCivHk3L1t72PM9jIqdbSG0qKXO",
+		"roles": [
+			{
+				"id": 2,
+				"rolNombre": "ROLE_USER"
+			}
+		],
+		"equipoDpma": {
+			"id": 1,
+			"nombre": "Operacion IT",
+			"acronimo": "OIT"
+		}
+	},
+	{
+		"id": 74,
+		"nombre": "Gisela Dos Santos",
+		"nombreUsuario": "GRDOSSANTOS",
+		"email": "gisela.dossantos@gba.gob.ar",
+		"password": "$2a$10$/vshxXG7QYx0YKtewEFHluQAvPNpyXMWGovvIC9aIKfihHXCRoh5S",
+		"roles": [
+			{
+				"id": 2,
+				"rolNombre": "ROLE_USER"
+			}
+		],
+		"equipoDpma": {
+			"id": 1,
+			"nombre": "Operacion IT",
+			"acronimo": "OIT"
+		}
+	},
+	{
+		"id": 75,
+		"nombre": "Valentina Santander",
+		"nombreUsuario": "VSANTANDER",
+		"email": "valentina.santander@gba.gob.ar",
+		"password": "$2a$10$XEUADrr1OdvfNVKZnZEf1ePDzUBCVQ1J3p1aP.wO0I/og1YHqwZo.",
+		"roles": [
+			{
+				"id": 2,
+				"rolNombre": "ROLE_USER"
+			}
+		],
+		"equipoDpma": {
+			"id": 1,
+			"nombre": "Operacion IT",
+			"acronimo": "OIT"
+		}
+	},
+	{
+		"id": 76,
+		"nombre": "Mauro Barone",
+		"nombreUsuario": "MACEBARONE",
+		"email": "mauro.barone@gba.gob.ar",
+		"password": "$2a$10$1Dk3MqZ/ziqBRA1u4MXzSemNlvLi47qV53DDImxyi6O9BnvsMAkTa",
+		"roles": [
+			{
+				"id": 2,
+				"rolNombre": "ROLE_USER"
+			}
+		],
+		"equipoDpma": {
+			"id": 8,
+			"nombre": "Análisis y Desarrollo de Sistemas",
+			"acronimo": "ADS"
+		}
+	},
+	{
+		"id": 77,
+		"nombre": "Agustina Belén Gonzalez",
+		"nombreUsuario": "AGBGONZALEZ",
+		"email": "agustina.gonzalez@gba.gob.ar",
+		"password": "$2a$10$HQMj64CVaA0ykoFmBm/8reSXgjnlum.yE1B1QgQcE5dkKULnzbiMq",
+		"roles": [
+			{
+				"id": 2,
+				"rolNombre": "ROLE_USER"
+			}
+		],
+		"equipoDpma": {
+			"id": 8,
+			"nombre": "Análisis y Desarrollo de Sistemas",
+			"acronimo": "ADS"
+		}
+	},
+	{
+		"id": 81,
+		"nombre": "Diego Salazar",
+		"nombreUsuario": "DLSALAZAR",
+		"email": "diego.salazar@gba.gob.ar",
+		"password": "$2a$10$NgTWs8HBxB.fZF82pt.Mz.LPXbANZ50l9f/a17mrcbdy3CWtQMoza",
+		"roles": [
+			{
+				"id": 2,
+				"rolNombre": "ROLE_USER"
+			}
+		],
+		"equipoDpma": {
+			"id": 8,
+			"nombre": "Análisis y Desarrollo de Sistemas",
+			"acronimo": "ADS"
+		}
+	},
+	{
+		"id": 82,
+		"nombre": "Martin Fluxa",
+		"nombreUsuario": "JFLUXA",
+		"email": "jorge.fluxa@gba.gob.ar",
+		"password": "$2a$10$/4KRsr9f7V90EkA1oM0BUe1vxPnZK.iQ3HBz.qZ4c8NmrjL4xkAmy",
+		"roles": [
+			{
+				"id": 2,
+				"rolNombre": "ROLE_USER"
+			}
+		],
+		"equipoDpma": {
+			"id": 9,
+			"nombre": "Asesor Técnico Legal",
+			"acronimo": "AL"
+		}
+	},
+	{
+		"id": 83,
+		"nombre": "Micaela Segura",
+		"nombreUsuario": "MISEGURA",
+		"email": "micaela.segura@gba.gob.ar",
+		"password": "$2a$10$3RF5vscHZteGKcWjHVMvlu.wmya5MF83QA53KaLMfkUpYcVFOyZhq",
+		"roles": [
+			{
+				"id": 2,
+				"rolNombre": "ROLE_USER"
+			}
+		],
+		"equipoDpma": {
+			"id": 10,
+			"nombre": "Recursos Humanos y Administración",
+			"acronimo": "RH&A"
+		}
+	},
+	{
+		"id": 84,
+		"nombre": "Noé Plastino",
+		"nombreUsuario": "NPLASTINO",
+		"email": "maria.plastino@gba.gob.ar",
+		"password": "$2a$10$jg9uuf2sU31vKw.Cyk7oZOWqxyxyifqWLd4Nj07QEHmazXXMqlYBe",
+		"roles": [
+			{
+				"id": 2,
+				"rolNombre": "ROLE_USER"
+			}
+		],
+		"equipoDpma": {
+			"id": 10,
+			"nombre": "Recursos Humanos y Administración",
+			"acronimo": "RH&A"
+		}
+	},
+	{
+		"id": 85,
+		"nombre": "María Belén Simonutti ",
+		"nombreUsuario": "MBSIMONUTTI",
+		"email": "belen.simonutti@gba.gob.ar",
+		"password": "$2a$10$PC/4Adqsfde/SJkr4dMy4u6CiTuVkDTkC1pnrfCc3hIvOXUMGX9f.",
+		"roles": [
+			{
+				"id": 2,
+				"rolNombre": "ROLE_USER"
+			}
+		],
+		"equipoDpma": {
+			"id": 10,
+			"nombre": "Recursos Humanos y Administración",
+			"acronimo": "RH&A"
+		}
+	},
+	{
+		"id": 86,
+		"nombre": "Analía Matilde Bie        ",
+		"nombreUsuario": "ABIE",
+		"email": "analia.bie@gba.gob.ar",
+		"password": "$2a$10$zYWwOfZtQ99mBonDGp/XieLZFgolji.ZvfsOjmJl5lZO7lXdaFe.G",
+		"roles": [
+			{
+				"id": 2,
+				"rolNombre": "ROLE_USER"
+			}
+		],
+		"equipoDpma": {
+			"id": 3,
+			"nombre": "Análisis Administrativo y Mejora Continua",
+			"acronimo": "AAMC"
+		}
+	},
+	{
+		"id": 87,
+		"nombre": "Luciano Kihn           ",
+		"nombreUsuario": "LKIHN",
+		"email": "luciano.kihn@gba.gob.ar",
+		"password": "$2a$10$77MfaqFRPxpF12Hj2nv6.eKVGe0WjWyQOu.I3BcjjggkG6xnQZfpa",
+		"roles": [
+			{
+				"id": 2,
+				"rolNombre": "ROLE_USER"
+			}
+		],
+		"equipoDpma": {
+			"id": 7,
+			"nombre": "PMO",
+			"acronimo": "PMO"
+		}
+	},
+	{
+		"id": 88,
+		"nombre": "Giuliano Baglivi",
+		"nombreUsuario": "GBAGLIVI",
+		"email": "giuliano.baglivi@gba.gob.ar",
+		"password": "$2a$10$7Orqk7wOgq73caMMisQfKe22Z8wQtvOfNZeMEPpnqd5UV8npLr3rW",
+		"roles": [
+			{
+				"id": 2,
+				"rolNombre": "ROLE_USER"
+			}
+		],
+		"equipoDpma": {
+			"id": 1,
+			"nombre": "Operacion IT",
+			"acronimo": "OIT"
+		}
+	},
+	{
+		"id": 89,
+		"nombre": "Mariana Diaz Dopazo              ",
+		"nombreUsuario": "MDIAZDOPAZO",
+		"email": "mariana.diaz@gba.gob.ar",
+		"password": "$2a$10$C81Z/neN0ndcOL6vbVFWSOI82E2T/Rw9II/J664YmcUIc02/8WDSq",
+		"roles": [
+			{
+				"id": 2,
+				"rolNombre": "ROLE_USER"
+			}
+		],
+		"equipoDpma": {
+			"id": 9,
+			"nombre": "Asesor Técnico Legal",
+			"acronimo": "AL"
+		}
+	},
+	{
+		"id": 90,
+		"nombre": "Erik Ferreyra",
+		"nombreUsuario": "JAVAPRODEMASTER",
+		"email": "erik.ferreyra@gba.gob.ar",
+		"password": "$2a$10$ZNAGTu7wWAFbTCeOegQlCOWJSWIbwGAJsC1DiJK6iY4y6GY3Dcxlu",
+		"roles": [
+			{
+				"id": 2,
+				"rolNombre": "ROLE_USER"
+			}
+		],
+		"equipoDpma": {
+			"id": 8,
+			"nombre": "Análisis y Desarrollo de Sistemas",
+			"acronimo": "ADS"
+		}
+	}
+]

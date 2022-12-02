@@ -1,0 +1,808 @@
+[
+  {
+    "id": 1,
+    "resultadoLocal": 0,
+    "resultadoVisita": 2,
+    "partido": {
+      "id": 91,
+      "nombre": "QAT - ECU",
+      "grupo": "A",
+      "ronda": "2",
+      "equipoLocal": {
+        "id": 32,
+        "seleccion": "Catar",
+        "acronimo": "QAT"
+      },
+      "equipoVisita": {
+        "id": 33,
+        "seleccion": "Ecuador",
+        "acronimo": "ECU"
+      },
+      "fechainicio": "2022-11-20",
+      "horario": "13:00",
+      "jugado": true
+    },
+    "ganador": "VISITA",
+    "ganadorPenales": null
+  },
+  {
+    "id": 2,
+    "resultadoLocal": 0,
+    "resultadoVisita": 2,
+    "partido": {
+      "id": 90,
+      "nombre": "SEN - NLD",
+      "grupo": "A",
+      "ronda": "1",
+      "equipoLocal": {
+        "id": 27,
+        "seleccion": "Senegal",
+        "acronimo": "SEN"
+      },
+      "equipoVisita": {
+        "id": 34,
+        "seleccion": "Países Bajos",
+        "acronimo": "NLD"
+      },
+      "fechainicio": "2022-11-21",
+      "horario": "13:00",
+      "jugado": true
+    },
+    "ganador": "VISITA",
+    "ganadorPenales": null
+  },
+  {
+    "id": 3,
+    "resultadoLocal": 6,
+    "resultadoVisita": 2,
+    "partido": {
+      "id": 78,
+      "nombre": "ING - IRN",
+      "grupo": "B",
+      "ronda": "1",
+      "equipoLocal": {
+        "id": 23,
+        "seleccion": "Inglaterra",
+        "acronimo": "ING"
+      },
+      "equipoVisita": {
+        "id": 26,
+        "seleccion": "Irán",
+        "acronimo": "IRN"
+      },
+      "fechainicio": "2022-11-21",
+      "horario": "10:00",
+      "jugado": true
+    },
+    "ganador": "LOCAL",
+    "ganadorPenales": null
+  },
+  {
+    "id": 4,
+    "resultadoLocal": 1,
+    "resultadoVisita": 1,
+    "partido": {
+      "id": 79,
+      "nombre": "USA - GAL",
+      "grupo": "B",
+      "ronda": "2",
+      "equipoLocal": {
+        "id": 25,
+        "seleccion": "Estados Unidos",
+        "acronimo": "USA"
+      },
+      "equipoVisita": {
+        "id": 28,
+        "seleccion": "Gales",
+        "acronimo": "GAL"
+      },
+      "fechainicio": "2022-11-21",
+      "horario": "16:00",
+      "jugado": true
+    },
+    "ganador": "EMPATE",
+    "ganadorPenales": null
+  },
+  {
+    "id": 5,
+    "resultadoLocal": 1,
+    "resultadoVisita": 2,
+    "partido": {
+      "id": 81,
+      "nombre": "ARG - SAU",
+      "grupo": "C",
+      "ronda": "1",
+      "equipoLocal": {
+        "id": 24,
+        "seleccion": "Argentina",
+        "acronimo": "ARG"
+      },
+      "equipoVisita": {
+        "id": 30,
+        "seleccion": "Arabia Saudita",
+        "acronimo": "SAU"
+      },
+      "fechainicio": "2022-11-22",
+      "horario": "07:00",
+      "jugado": true
+    },
+    "ganador": "VISITA",
+    "ganadorPenales": null
+  },
+  {
+    "id": 6,
+    "resultadoLocal": 0,
+    "resultadoVisita": 0,
+    "partido": {
+      "id": 83,
+      "nombre": "MEX - POL",
+      "grupo": "C",
+      "ronda": "2",
+      "equipoLocal": {
+        "id": 29,
+        "seleccion": "México",
+        "acronimo": "MEX"
+      },
+      "equipoVisita": {
+        "id": 31,
+        "seleccion": "Polonia",
+        "acronimo": "POL"
+      },
+      "fechainicio": "2022-11-22",
+      "horario": "13:00",
+      "jugado": true
+    },
+    "ganador": "EMPATE",
+    "ganadorPenales": null
+  },
+  {
+    "id": 7,
+    "resultadoLocal": 0,
+    "resultadoVisita": 0,
+    "partido": {
+      "id": 112,
+      "nombre": "DNK - TUN",
+      "grupo": "D",
+      "ronda": "1",
+      "equipoLocal": {
+        "id": 47,
+        "seleccion": "Dinamarca",
+        "acronimo": "DNK"
+      },
+      "equipoVisita": {
+        "id": 50,
+        "seleccion": "Túnez",
+        "acronimo": "TUN"
+      },
+      "fechainicio": "2022-11-22",
+      "horario": "10:00",
+      "jugado": true
+    },
+    "ganador": "EMPATE",
+    "ganadorPenales": null
+  },
+  {
+    "id": 8,
+    "resultadoLocal": 4,
+    "resultadoVisita": 1,
+    "partido": {
+      "id": 115,
+      "nombre": "FRA - AUS",
+      "grupo": "D",
+      "ronda": "2",
+      "equipoLocal": {
+        "id": 48,
+        "seleccion": "Francia",
+        "acronimo": "FRA"
+      },
+      "equipoVisita": {
+        "id": 52,
+        "seleccion": "Australia",
+        "acronimo": "AUS"
+      },
+      "fechainicio": "2022-11-22",
+      "horario": "16:00",
+      "jugado": true
+    },
+    "ganador": "LOCAL",
+    "ganadorPenales": null
+  },
+  {
+    "id": 9,
+    "resultadoLocal": 0,
+    "resultadoVisita": 0,
+    "partido": {
+      "id": 93,
+      "nombre": "MAR - HRV",
+      "grupo": "F",
+      "ronda": "1",
+      "equipoLocal": {
+        "id": 37,
+        "seleccion": "Marruecos",
+        "acronimo": "MAR"
+      },
+      "equipoVisita": {
+        "id": 41,
+        "seleccion": "Croacia",
+        "acronimo": "HRV"
+      },
+      "fechainicio": "2022-11-23",
+      "horario": "07:00",
+      "jugado": false
+    },
+    "ganador": "EMPATE",
+    "ganadorPenales": null
+  },
+  {
+    "id": 10,
+    "resultadoLocal": 1,
+    "resultadoVisita": 2,
+    "partido": {
+      "id": 108,
+      "nombre": "DEU - JPN",
+      "grupo": "E",
+      "ronda": "1",
+      "equipoLocal": {
+        "id": 35,
+        "seleccion": "Alemania",
+        "acronimo": "DEU"
+      },
+      "equipoVisita": {
+        "id": 46,
+        "seleccion": "Japón",
+        "acronimo": "JPN"
+      },
+      "fechainicio": "2022-11-23",
+      "horario": "10:00",
+      "jugado": true
+    },
+    "ganador": "VISITA",
+    "ganadorPenales": null
+  },
+  {
+    "id": 11,
+    "resultadoLocal": 1,
+    "resultadoVisita": 0,
+    "partido": {
+      "id": 96,
+      "nombre": "BEL - CAN",
+      "grupo": "F",
+      "ronda": "2",
+      "equipoLocal": {
+        "id": 39,
+        "seleccion": "Bélgica",
+        "acronimo": "BEL"
+      },
+      "equipoVisita": {
+        "id": 36,
+        "seleccion": "Canadá",
+        "acronimo": "CAN"
+      },
+      "fechainicio": "2022-11-23",
+      "horario": "16:00",
+      "jugado": true
+    },
+    "ganador": "LOCAL",
+    "ganadorPenales": null
+  },
+  {
+    "id": 12,
+    "resultadoLocal": 1,
+    "resultadoVisita": 0,
+    "partido": {
+      "id": 95,
+      "nombre": "CHE - CMR",
+      "grupo": "G",
+      "ronda": "1",
+      "equipoLocal": {
+        "id": 40,
+        "seleccion": "Suiza",
+        "acronimo": "CHE"
+      },
+      "equipoVisita": {
+        "id": 42,
+        "seleccion": "Camerún",
+        "acronimo": "CMR"
+      },
+      "fechainicio": "2022-11-24",
+      "horario": "07:00",
+      "jugado": true
+    },
+    "ganador": "LOCAL",
+    "ganadorPenales": null
+  },
+  {
+    "id": 13,
+    "resultadoLocal": 0,
+    "resultadoVisita": 0,
+    "partido": {
+      "id": 116,
+      "nombre": "URY - KOR",
+      "grupo": "H",
+      "ronda": "1",
+      "equipoLocal": {
+        "id": 49,
+        "seleccion": "Uruguay",
+        "acronimo": "URY"
+      },
+      "equipoVisita": {
+        "id": 54,
+        "seleccion": "Corea del Sur",
+        "acronimo": "KOR"
+      },
+      "fechainicio": "2022-11-24",
+      "horario": "10:00",
+      "jugado": true
+    },
+    "ganador": "EMPATE",
+    "ganadorPenales": null
+  },
+  {
+    "id": 14,
+    "resultadoLocal": 3,
+    "resultadoVisita": 2,
+    "partido": {
+      "id": 118,
+      "nombre": "PRT - GHA",
+      "grupo": "H",
+      "ronda": "2",
+      "equipoLocal": {
+        "id": 53,
+        "seleccion": "Portugal",
+        "acronimo": "PRT"
+      },
+      "equipoVisita": {
+        "id": 51,
+        "seleccion": "Ghana",
+        "acronimo": "GHA"
+      },
+      "fechainicio": "2022-11-24",
+      "horario": "13:00",
+      "jugado": true
+    },
+    "ganador": "LOCAL",
+    "ganadorPenales": null
+  },
+  {
+    "id": 15,
+    "resultadoLocal": 2,
+    "resultadoVisita": 0,
+    "partido": {
+      "id": 98,
+      "nombre": "BRA - SER",
+      "grupo": "G",
+      "ronda": "2",
+      "equipoLocal": {
+        "id": 38,
+        "seleccion": "Brasil",
+        "acronimo": "BRA"
+      },
+      "equipoVisita": {
+        "id": 43,
+        "seleccion": "Serbia",
+        "acronimo": "SER"
+      },
+      "fechainicio": "2022-11-24",
+      "horario": "16:00",
+      "jugado": true
+    },
+    "ganador": "LOCAL",
+    "ganadorPenales": null
+  },
+  {
+    "id": 16,
+    "resultadoLocal": 2,
+    "resultadoVisita": 0,
+    "partido": {
+      "id": 80,
+      "nombre": "IRN - GAL",
+      "grupo": "B",
+      "ronda": "3",
+      "equipoLocal": {
+        "id": 26,
+        "seleccion": "Irán",
+        "acronimo": "IRN"
+      },
+      "equipoVisita": {
+        "id": 28,
+        "seleccion": "Gales",
+        "acronimo": "GAL"
+      },
+      "fechainicio": "2022-11-25",
+      "horario": "07:00",
+      "jugado": true
+    },
+    "ganador": "LOCAL",
+    "ganadorPenales": null
+  },
+  {
+    "id": 17,
+    "resultadoLocal": 1,
+    "resultadoVisita": 3,
+    "partido": {
+      "id": 92,
+      "nombre": "QAT - SEN",
+      "grupo": "A",
+      "ronda": "3",
+      "equipoLocal": {
+        "id": 32,
+        "seleccion": "Catar",
+        "acronimo": "QAT"
+      },
+      "equipoVisita": {
+        "id": 27,
+        "seleccion": "Senegal",
+        "acronimo": "SEN"
+      },
+      "fechainicio": "2022-11-25",
+      "horario": "10:00",
+      "jugado": true
+    },
+    "ganador": "VISITA",
+    "ganadorPenales": null
+  },
+  {
+    "id": 18,
+    "resultadoLocal": 1,
+    "resultadoVisita": 1,
+    "partido": {
+      "id": 94,
+      "nombre": "ECU - NLD",
+      "grupo": "A",
+      "ronda": "4",
+      "equipoLocal": {
+        "id": 33,
+        "seleccion": "Ecuador",
+        "acronimo": "ECU"
+      },
+      "equipoVisita": {
+        "id": 34,
+        "seleccion": "Países Bajos",
+        "acronimo": "NLD"
+      },
+      "fechainicio": "2022-11-25",
+      "horario": "13:00",
+      "jugado": true
+    },
+    "ganador": "EMPATE",
+    "ganadorPenales": null
+  },
+  {
+    "id": 19,
+    "resultadoLocal": 0,
+    "resultadoVisita": 0,
+    "partido": {
+      "id": 82,
+      "nombre": "ING - USA",
+      "grupo": "B",
+      "ronda": "4",
+      "equipoLocal": {
+        "id": 23,
+        "seleccion": "Inglaterra",
+        "acronimo": "ING"
+      },
+      "equipoVisita": {
+        "id": 25,
+        "seleccion": "Estados Unidos",
+        "acronimo": "USA"
+      },
+      "fechainicio": "2022-11-25",
+      "horario": "16:00",
+      "jugado": true
+    },
+    "ganador": "EMPATE",
+    "ganadorPenales": null
+  },
+  {
+    "id": 20,
+    "resultadoLocal": 1,
+    "resultadoVisita": 0,
+    "partido": {
+      "id": 117,
+      "nombre": "AUS - TUN",
+      "grupo": "D",
+      "ronda": "3",
+      "equipoLocal": {
+        "id": 52,
+        "seleccion": "Australia",
+        "acronimo": "AUS"
+      },
+      "equipoVisita": {
+        "id": 50,
+        "seleccion": "Túnez",
+        "acronimo": "TUN"
+      },
+      "fechainicio": "2022-11-26",
+      "horario": "07:00",
+      "jugado": true
+    },
+    "ganador": "LOCAL",
+    "ganadorPenales": null
+  },
+  {
+    "id": 21,
+    "resultadoLocal": 0,
+    "resultadoVisita": 2,
+    "partido": {
+      "id": 86,
+      "nombre": "SAU - POL",
+      "grupo": "C",
+      "ronda": "3",
+      "equipoLocal": {
+        "id": 30,
+        "seleccion": "Arabia Saudita",
+        "acronimo": "SAU"
+      },
+      "equipoVisita": {
+        "id": 31,
+        "seleccion": "Polonia",
+        "acronimo": "POL"
+      },
+      "fechainicio": "2022-11-26",
+      "horario": "10:00",
+      "jugado": false
+    },
+    "ganador": "VISITA",
+    "ganadorPenales": null
+  },
+  {
+    "id": 22,
+    "resultadoLocal": 2,
+    "resultadoVisita": 1,
+    "partido": {
+      "id": 119,
+      "nombre": "FRA - DNK",
+      "grupo": "D",
+      "ronda": "4",
+      "equipoLocal": {
+        "id": 48,
+        "seleccion": "Francia",
+        "acronimo": "FRA"
+      },
+      "equipoVisita": {
+        "id": 47,
+        "seleccion": "Dinamarca",
+        "acronimo": "DNK"
+      },
+      "fechainicio": "2022-11-26",
+      "horario": "13:00",
+      "jugado": false
+    },
+    "ganador": "LOCAL",
+    "ganadorPenales": null
+  },
+  {
+    "id": 23,
+    "resultadoLocal": 2,
+    "resultadoVisita": 0,
+    "partido": {
+      "id": 87,
+      "nombre": "ARG - MEX",
+      "grupo": "C",
+      "ronda": "4",
+      "equipoLocal": {
+        "id": 24,
+        "seleccion": "Argentina",
+        "acronimo": "ARG"
+      },
+      "equipoVisita": {
+        "id": 29,
+        "seleccion": "México",
+        "acronimo": "MEX"
+      },
+      "fechainicio": "2022-11-26",
+      "horario": "16:00",
+      "jugado": false
+    },
+    "ganador": "LOCAL",
+    "ganadorPenales": null
+  },
+  {
+    "id": 24,
+    "resultadoLocal": 1,
+    "resultadoVisita": 0,
+    "partido": {
+      "id": 110,
+      "nombre": "CRI - JPN",
+      "grupo": "E",
+      "ronda": "3",
+      "equipoLocal": {
+        "id": 45,
+        "seleccion": "Costa Rica",
+        "acronimo": "CRI"
+      },
+      "equipoVisita": {
+        "id": 46,
+        "seleccion": "Japón",
+        "acronimo": "JPN"
+      },
+      "fechainicio": "2022-11-27",
+      "horario": "07:00",
+      "jugado": false
+    },
+    "ganador": "LOCAL",
+    "ganadorPenales": null
+  },
+  {
+    "id": 25,
+    "resultadoLocal": 0,
+    "resultadoVisita": 2,
+    "partido": {
+      "id": 100,
+      "nombre": "BEL - MAR",
+      "grupo": "F",
+      "ronda": "3",
+      "equipoLocal": {
+        "id": 39,
+        "seleccion": "Bélgica",
+        "acronimo": "BEL"
+      },
+      "equipoVisita": {
+        "id": 37,
+        "seleccion": "Marruecos",
+        "acronimo": "MAR"
+      },
+      "fechainicio": "2022-11-27",
+      "horario": "10:00",
+      "jugado": true
+    },
+    "ganador": "VISITA",
+    "ganadorPenales": null
+  },
+  {
+    "id": 26,
+    "resultadoLocal": 1,
+    "resultadoVisita": 4,
+    "partido": {
+      "id": 102,
+      "nombre": "CAN - HRV",
+      "grupo": "F",
+      "ronda": "4",
+      "equipoLocal": {
+        "id": 36,
+        "seleccion": "Canadá",
+        "acronimo": "CAN"
+      },
+      "equipoVisita": {
+        "id": 41,
+        "seleccion": "Croacia",
+        "acronimo": "HRV"
+      },
+      "fechainicio": "2022-11-27",
+      "horario": "13:00",
+      "jugado": true
+    },
+    "ganador": "VISITA",
+    "ganadorPenales": null
+  },
+  {
+    "id": 27,
+    "resultadoLocal": 1,
+    "resultadoVisita": 1,
+    "partido": {
+      "id": 111,
+      "nombre": "ESP - DEU",
+      "grupo": "E",
+      "ronda": "4",
+      "equipoLocal": {
+        "id": 44,
+        "seleccion": "España",
+        "acronimo": "ESP"
+      },
+      "equipoVisita": {
+        "id": 35,
+        "seleccion": "Alemania",
+        "acronimo": "DEU"
+      },
+      "fechainicio": "2022-11-27",
+      "horario": "16:00",
+      "jugado": true
+    },
+    "ganador": "EMPATE",
+    "ganadorPenales": null
+  },
+  {
+    "id": 28,
+    "resultadoLocal": 3,
+    "resultadoVisita": 3,
+    "partido": {
+      "id": 101,
+      "nombre": "SER - CMR",
+      "grupo": "G",
+      "ronda": "3",
+      "equipoLocal": {
+        "id": 43,
+        "seleccion": "Serbia",
+        "acronimo": "SER"
+      },
+      "equipoVisita": {
+        "id": 42,
+        "seleccion": "Camerún",
+        "acronimo": "CMR"
+      },
+      "fechainicio": "2022-11-28",
+      "horario": "07:00",
+      "jugado": true
+    },
+    "ganador": "EMPATE",
+    "ganadorPenales": null
+  },
+  {
+    "id": 29,
+    "resultadoLocal": 3,
+    "resultadoVisita": 2,
+    "partido": {
+      "id": 121,
+      "nombre": "GHA - KOR",
+      "grupo": "H",
+      "ronda": "3",
+      "equipoLocal": {
+        "id": 51,
+        "seleccion": "Ghana",
+        "acronimo": "GHA"
+      },
+      "equipoVisita": {
+        "id": 54,
+        "seleccion": "Corea del Sur",
+        "acronimo": "KOR"
+      },
+      "fechainicio": "2022-11-28",
+      "horario": "10:00",
+      "jugado": true
+    },
+    "ganador": "LOCAL",
+    "ganadorPenales": null
+  },
+  {
+    "id": 30,
+    "resultadoLocal": 1,
+    "resultadoVisita": 0,
+    "partido": {
+      "id": 103,
+      "nombre": "BRA - CHE",
+      "grupo": "G",
+      "ronda": "4",
+      "equipoLocal": {
+        "id": 38,
+        "seleccion": "Brasil",
+        "acronimo": "BRA"
+      },
+      "equipoVisita": {
+        "id": 40,
+        "seleccion": "Suiza",
+        "acronimo": "CHE"
+      },
+      "fechainicio": "2022-11-28",
+      "horario": "13:00",
+      "jugado": false
+    },
+    "ganador": "LOCAL",
+    "ganadorPenales": null
+  },
+  {
+    "id": 31,
+    "resultadoLocal": 2,
+    "resultadoVisita": 0,
+    "partido": {
+      "id": 123,
+      "nombre": "PRT - URY",
+      "grupo": "H",
+      "ronda": "4",
+      "equipoLocal": {
+        "id": 53,
+        "seleccion": "Portugal",
+        "acronimo": "PRT"
+      },
+      "equipoVisita": {
+        "id": 49,
+        "seleccion": "Uruguay",
+        "acronimo": "URY"
+      },
+      "fechainicio": "2022-11-28",
+      "horario": "16:00",
+      "jugado": true
+    },
+    "ganador": "LOCAL",
+    "ganadorPenales": null
+  }
+]
