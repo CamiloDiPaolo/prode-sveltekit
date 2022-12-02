@@ -31,8 +31,8 @@
 					} border-b dark:bg-gray-800 dark:border-gray-700`}
 				>
 					{#if i == 0}
-						<td class="py-4 px-6 text-center text-gray-800">
-							<div class="flex items-center justify-center bg-yellow-500 rounded-full w-10 h-10">
+						<td class="py-4 px-6 text-center text-gray-800 flex justify-center">
+							<div class="flex items-center justify-center bg-yellow-500 rounded-full w-10 h-10 ">
 								<svg
 									xmlns="http://www.w3.org/2000/svg"
 									fill="none"
@@ -51,7 +51,7 @@
 							</div>
 						</td>
 					{:else if i == 1}
-						<td class="py-4 px-6 text-center text-gray-800">
+						<td class="py-4 px-6 text-center text-gray-800 flex justify-center">
 							<div class="flex items-center justify-center bg-gray-400 rounded-full w-10 h-10">
 								<svg
 									xmlns="http://www.w3.org/2000/svg"
@@ -71,7 +71,7 @@
 							</div>
 						</td>
 					{:else if i == 2}
-						<td class="py-4 px-6 text-center text-gray-800">
+						<td class="py-4 px-6 text-center text-gray-800 flex justify-center">
 							<div class="flex items-center justify-center rounded-full w-10 h-10 bg-amber-600">
 								<svg
 									xmlns="http://www.w3.org/2000/svg"
