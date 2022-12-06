@@ -45,7 +45,7 @@ export async function GET({ url }) {
 			const aciertoPenales =
 				resultado.ganador_penales && resultado.ganador_penales == prediccion.ganador_penales;
 
-			const puntos = aciertoResultado ? 5 : aciertoGanador ? 3 : 0;
+			let puntos = aciertoResultado ? 5 : aciertoGanador ? 3 : 0;
 			if (aciertoPenales) puntos += 2;
 
 			puntuacion.puntos += puntos;
